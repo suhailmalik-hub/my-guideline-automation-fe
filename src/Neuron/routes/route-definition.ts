@@ -1,0 +1,9 @@
+export const LANDING_PAGE_ROUTE = '/';
+export const LOGIN_ROUTE = '/login';
+export const DASHBOARD_ROUTE = '/dashboard';
+export const NOT_FOUND_PATH = '/not-found';
+export const WORKFLOW_EDITOR_ROUTE = '/workflow/create';
+export const WORKFLOW_EDIT_ROUTE = '/workflow/:id/edit';
+export const WORKFLOW_LIST_ROUTE = '/workflow/list';
+export const VISA_MASTER_ROUTE = '/visa-master';
+export const REVIEW_GUIDELINE_ROUTE = '/workflow/:id/review';
